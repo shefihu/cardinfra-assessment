@@ -1,0 +1,16 @@
+export const RoutePaths = {
+  ROOT: "/",
+  DASHBOARD: "/dashboard",
+  BRANCHES: "/branches",
+  ROLES: "/roles",
+  USERS: "/users",
+  CARD_SCHEME: "/card-scheme",
+  CARD_PROFILE: "/card-profile",
+  CARD_REQUEST: "/card-request",
+  STOCK: "/stock",
+  CARDS: "/cards",
+  AUTHORIZATION_LIST: "/authorization-list",
+  AUTHORIZATION_QUEUE: "/authorization-queue",
+  TRAIL: "/trail",
+  ACCOUNT: "/account",
+};
