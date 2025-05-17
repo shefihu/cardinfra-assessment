@@ -2,6 +2,17 @@
 
 This project is a React application built with TypeScript and Vite. It serves as an assessment project and demonstrates the use of modern front-end technologies, including React, Vite, TailwindCSS, and Chart.js.
 
+## Demo Access
+
+To access the dashboard in the deployed demo:
+
+1. You will be navigated to the login page
+2. Enter any text in the username field
+3. Enter any text in the password field
+4. Click the "Login" button to view the dashboard
+
+Note: This is a demo application with simulated authentication. No real authentication is performed, and any credentials will work to access the dashboard.
+
 ## Features
 
 - **React + TypeScript**: A robust combination for building scalable and type-safe applications.
