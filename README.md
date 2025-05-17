@@ -51,6 +51,17 @@ While the project demonstrates a good understanding of React and TypeScript, the
 
 These changes would make the codebase more maintainable and scalable, especially for larger projects.
 
+## Note on Testing
+
+No tests were written for this assessment project due to time constraints. However, I am proficient in testing React applications using Jest, React Testing Library, and Cypress, and would implement comprehensive test coverage in a production environment. This would include:
+
+- Unit tests for individual components
+- Integration tests for component interactions
+- End-to-end tests for critical user flows
+- Snapshot tests for UI consistency
+
+For a production application, I would implement a testing strategy that includes all of these test types, focusing on critical business logic and user flows.
+
 ## Installation
 
 1. Clone the repository:
