@@ -28,7 +28,7 @@ const Login = () => {
         <div className="w-full max-w-xl mx-auto ">
           <Logo />
 
-          <form className="mt-25" onSubmit={handleSubmit}>
+          <form className="mt-10 lg:mt-25" onSubmit={handleSubmit}>
             <div className="mb-10 text-dark">
               <h1 className="mb-3 text-2xl font-medium ">Hi, Welcome Back!</h1>
 
